@@ -1,0 +1,70 @@
+2023-11-20 14:06:46.1841 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-20 14:06:46.1861 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-20 14:06:46.1861 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-20 14:06:46.1968 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-20 14:06:46.2415 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-20 14:06:46.2472 Info Configuration initialized.
+2023-11-20 14:06:46.2472 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-20 14:07:17.7959 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-20 14:07:17.7972 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-20 14:07:17.7972 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-20 14:07:17.8079 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-20 14:07:17.8538 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-20 14:07:17.8597 Info Configuration initialized.
+2023-11-20 14:07:17.8599 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-20 14:13:48.3976 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-20 14:13:48.3994 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-20 14:13:48.3994 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-20 14:13:48.4101 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-20 14:13:48.4586 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-20 14:13:48.4647 Info Configuration initialized.
+2023-11-20 14:13:48.4647 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 14:30:21.1186 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-22 14:30:21.1220 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-22 14:30:21.1220 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-22 14:30:21.1369 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-22 14:30:21.1619 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 14:30:21.1674 Info Configuration initialized.
+2023-11-22 14:30:21.1674 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 18:20:49.3725 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-22 18:20:49.3748 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-22 18:20:49.3751 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-22 18:20:49.3849 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-22 18:20:49.4089 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 18:20:49.4145 Info Configuration initialized.
+2023-11-22 18:20:49.4145 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 19:47:33.4037 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-22 19:47:33.4057 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-22 19:47:33.4057 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-22 19:47:33.4166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-22 19:47:33.4454 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 19:47:33.4511 Info Configuration initialized.
+2023-11-22 19:47:33.4511 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 19:48:43.5799 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-22 19:48:43.5812 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-22 19:48:43.5812 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-22 19:48:43.5919 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-22 19:48:43.6190 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 19:48:43.6248 Info Configuration initialized.
+2023-11-22 19:48:43.6248 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 20:09:03.1994 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-22 20:09:03.2014 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-22 20:09:03.2014 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-22 20:09:03.2113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-22 20:09:03.2393 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-22 20:09:03.2449 Info Configuration initialized.
+2023-11-22 20:09:03.2449 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-23 14:56:41.4546 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-23 14:56:41.4567 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-23 14:56:41.4567 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-23 14:56:41.4667 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-23 14:56:41.5054 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-23 14:56:41.5110 Info Configuration initialized.
+2023-11-23 14:56:41.5110 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-24 10:00:07.7458 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-11-24 10:00:07.7476 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-11-24 10:00:07.7476 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-11-24 10:00:07.7578 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-11-24 10:00:07.8020 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
+2023-11-24 10:00:07.8078 Info Configuration initialized.
+2023-11-24 10:00:07.8078 Info Validating config: TargetNames=allfile, ownFile-web, lifetimeConsole, ConfigItems=175, FilePath=/Users/danimartinez/Proyectos/evicertia/Walking-Game/WalkGameService/bin/Debug/net6.0/NLog.config
