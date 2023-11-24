@@ -1,0 +1,1 @@
+export type SelectItemKey = string | (string | number)[] | ((item: object, fallback?: any) => any)

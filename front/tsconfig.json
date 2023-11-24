@@ -1,0 +1,24 @@
+{
+  "include": [
+    // "src",
+    "./cypress.d.ts",
+  ],
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.vite-config.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.vitest.json"
+    }
+  ],
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "@assets/*": ["./src/assets/*"],
+    }
+  }
+}
