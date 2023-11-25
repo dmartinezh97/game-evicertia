@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import Components from 'unplugin-vue-components/vite'
 import vue from '@vitejs/plugin-vue'
-import mkcert from 'vite-plugin-mkcert'
+// import mkcert from 'vite-plugin-mkcert'
 
 
 // https://vitejs.dev/config/
@@ -19,7 +19,7 @@ export default defineConfig({
       dirs: ['src/@core/components'],
       dts: true,
     }),
-    mkcert()
+    // mkcert()
   ],
   resolve: {
     alias: [
