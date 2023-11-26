@@ -62,7 +62,7 @@ const onClickCrearNuevaPartida = async () => {
                         <InputText label="Columnas" v-model="frmData.width" type="number"></InputText>
                         <InputText label="Filas" v-model="frmData.height" type="number"></InputText>
                     </div>
-                    <div class="flex gap-2">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
                         <BasicButton @click="setIsOpen(false)" text="Cancelar" block outlined></BasicButton>
                         <BasicButton @click="onClickCrearNuevaPartida" text="Crear partida" block></BasicButton>
                     </div>

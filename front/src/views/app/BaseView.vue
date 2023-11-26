@@ -5,7 +5,7 @@ import Navbar from "@componentes/layouts/Navbar.vue";
 </script>
 
 <template>
-  <div class="flex flex-col h-full">
+  <div class="flex flex-col h-full overflow-hidden">
     <Navbar></Navbar>
     <div class="flex w-full h-full p-4">
       <router-view v-slot="{ Component }">

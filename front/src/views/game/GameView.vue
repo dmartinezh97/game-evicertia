@@ -42,7 +42,7 @@ const getTextButton = computed(() => {
     <div class="flex flex-col items-center">
       <BasicButton @click="onClickOpenModalCrearJuego" data-test="btnQuieroJugar" :text="getTextButton"></BasicButton>
       <div v-if="playerStore.getIsPlaying" class="flex mt-4">
-        <Tablero :key="partidasJugadas" @show-card-player="showModalPlayer = true" class="max-w-3xl"></Tablero>
+        <Tablero :key="partidasJugadas" @show-card-player="showModalPlayer = true" class="overflow-auto md:max-w-3xl"></Tablero>
         <CardPlayer v-model="showModalPlayer" :key="partidasJugadas"></CardPlayer>
       </div>
     </div>
